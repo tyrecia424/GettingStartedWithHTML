@@ -1,0 +1,45 @@
+body{
+    background-color: RED;
+
+}
+
+img{
+    width: 100px;
+
+}
+
+h2{
+    color: aqua;
+}
+p{
+    text-align: center;
+    color: purple;
+   text-decoration: line-through;
+    }
+
+    ul{
+        color: brown;
+    }
+li{
+    color: orange;
+}
+
+table{
+    color: hotpink;
+}
+
+i{
+    color: green;
+}
+
+b{
+    color: green;
+}
+
+u{
+    color: green;
+}
+
+
+
+
