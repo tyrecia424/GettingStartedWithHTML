@@ -1,0 +1,46 @@
+#static{
+ background-color: purple;
+ font-size: 40;
+ font-style: oblique;
+ border: 20px;
+ padding-bottom: 40px;
+ margin-left: 44px;
+
+
+#relative{
+    background-color: red;
+    font-size: 50;
+    font-style: italic;
+    border: 40px;
+    padding-right: 33px;
+    margin-bottom: 55px;
+}
+
+#fixed{
+    background-color: pink;
+    font-size: 60;
+    font-style: unset;
+    border: 30px;
+    padding-top: 55px;
+    margin-right: 22px;
+    width: 19px;
+}
+
+#absolute{
+    background-color: orange;
+    font-size: 28;
+    font-style:initial;
+    border: 35px;
+    padding-left: 30px;
+    margin-top: 54px;
+
+}
+
+#sticky{
+    background-color: blue;
+    font-size: 23;
+    font-style: oblique;
+    border: 11px;
+    padding-right: 66px;
+    margin-bottom: 11px;
+}
