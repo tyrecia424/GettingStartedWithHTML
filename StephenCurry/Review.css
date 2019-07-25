@@ -7,6 +7,8 @@ h1{
     margin-left: 20px;
     margin: center;
     padding: 25px;
+    position: relative;
+    border-style: double;
 
 }
 
@@ -32,6 +34,9 @@ p2{
 
 #Currywife{
     height: 100px;
+    position: relative;
+    left: 20px;
+    down: 50px;
 }
 
 .Currykids{
@@ -43,3 +48,8 @@ p2{
     padding: 25px;
     border: 25px solid purple;
 }
+
+img{
+background-position: bottom 50px;
+}
+
