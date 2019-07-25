@@ -1,0 +1,45 @@
+body{
+    color:blue;
+    margin: 10px;
+}
+
+h1{
+    margin-left: 20px;
+    margin: center;
+    padding: 25px;
+
+}
+
+h2{
+    margin: 25px;
+}
+
+h3{
+    margin-top: 50px;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-bottom: 50px;
+}
+
+p{
+    border:4px red dotted;
+    padding-top: 30px;
+}
+
+p2{
+    border: 10px green solid;
+}
+
+#Currywife{
+    height: 100px;
+}
+
+.Currykids{
+    width: 50%;
+}
+
+#CurryRings{
+    width: 200px;
+    padding: 25px;
+    border: 25px solid purple;
+}
