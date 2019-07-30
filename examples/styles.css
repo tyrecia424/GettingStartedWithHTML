@@ -17,6 +17,10 @@ p{
    text-decoration: line-through;
     }
 
+p3{
+font-family: 'Roboto', sans-serif;
+}
+
     ul{
         color: brown;
     }
@@ -42,10 +46,12 @@ u{
 
 #Reese{
     background-color: blue;
+    font-family: 'Roboto', sans-serif;
 }
 .food{
     background-color: white;
 }
+
 
 
 
